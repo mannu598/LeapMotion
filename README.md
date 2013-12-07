@@ -10,4 +10,4 @@ Prerequisites
 
 License
 ---
-You are free to use these libraries in personal and commercial projects by attributing the original creator of Vitruvius. Licensed under [Ms-PL](https://github.com/LightBuzz/LeapMotion/blob/master/LICENSE)
+You are free to use these libraries in personal and commercial projects by attributing the original creator of Vitruvius. Licensed under the [Apache v2 License](https://github.com/LightBuzz/LeapMotion/blob/master/LICENSE).
